@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @drishtisah
 - 👀 I’m interested in competitive programming 
-- 🌱 I’m currently learning c++ and python
-- I am a beginner
+- 🌱 I’m currently learning c++, java and python 
+- I'm good at SQL , DBMS and OS
+- Right now, working on Web Dev skills too
